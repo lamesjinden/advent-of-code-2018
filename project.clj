@@ -2,7 +2,4 @@
   :description "Advent of Code 2018 Solutions"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.10.0"]]
-  ;:target-path "target/%s"
-  ;:profiles {:uberjar {:aot :all}}
-  )
+  :dependencies [[org.clojure/clojure "1.10.0"]])
